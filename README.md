@@ -1,6 +1,6 @@
 C# RSA
 ===================
-*An application to show eayst way to use RSA in C#.*
+*An application to show easiest way to use RSA in C#.*
 1. How to generate pair of key.
 2. How to encrypt and decrypt string or any other kind of information (just convert it to the array of bytes.
 
